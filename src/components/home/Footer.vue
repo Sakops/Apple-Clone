@@ -52,6 +52,26 @@
                     <p class="text-sm p-1">Events</p>
                 </div>
             </div>
+            <div class="mb-2">
+                <a class="text-links" href="#">Find a retailer</a>&nbsp;<span>near you</span>
+            </div>
+            <hr>
+            <div class="mt-2 flex">
+                <div>
+                    <p class="text-sm">Copyright © 2022 Apple Inc. All rights reserved.</p>
+                </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="flex">
+                    <p class="text-sm hover:underline">Privacy | </p>&nbsp;
+                    <p class="text-sm hover:underline">Legal | </p>&nbsp;
+                    <p class="text-sm hover:underline">Site Map</p>
+                </span>
+                <div  class="ml-16">
+                    <span>
+                        Kazakhstan
+                    </span>
+                </div>
+            </div>
+            
             
         </div>
     </div>
